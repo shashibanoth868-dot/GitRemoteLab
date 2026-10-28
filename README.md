@@ -27,5 +27,8 @@ GitHub repository: GitRemoteLab
 
 This section will be updated while working on a separate Git branch.
 
+## Collaboration Branch
+
+This change was created on a separate branch and pushed to GitHub.
 
 
